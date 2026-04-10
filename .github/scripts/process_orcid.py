@@ -13,7 +13,7 @@ import urllib.request
 
 ORCID_ID = "0000-0002-0544-6533"
 API_URL = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
-OUTPUT_FILE = "publications.json"
+OUTPUT_FILE = "docs/publications.json"
 
 
 def fetch_orcid():
