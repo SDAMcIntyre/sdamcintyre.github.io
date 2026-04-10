@@ -1,114 +1,238 @@
 [
   {
-    "title": "Affective touch communication in close adult relationships",
-    "authors": "Sarah McIntyre, Athanasia Moungou, Rebecca Boehme, Peder M Isager, Frances Lau, Ali Israr, Ellen A Lumpkin, Freddy Abnousi, Håkan Olausson",
-    "journal": "arXiv",
-    "year": 2019,
-    "url": "https://arxiv.org/pdf/1905.02613"
+    "title": "Robust coupling between the C‐tactile afferent and the hair follicle in humans",
+    "journal": "The Journal of Physiology",
+    "year": 2025,
+    "doi": "10.1113/JP287706",
+    "url": "https://doi.org/10.1113/JP287706"
   },
   {
-    "title": "From Human-to-Human Touch to Peripheral Nerve Responses",
-    "authors": "Steven C. Hauser, Saad S. Nagi, Sarah McIntyre, Ali Israr, Håkan Olausson, Gregory J. Gerling",
-    "journal": "World Haptics",
-    "year": 2019,
-    "url": "https://research.fb.com/wp-content/uploads/2019/06/From-Human-to-Human-Touch-to-Peripheral-Nerve-Responses.pdf"
+    "title": "Tactile illusion reveals central neural basis for touch pleasantness",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.1101/2025.03.02.640981",
+    "url": "https://doi.org/10.1101/2025.03.02.640981"
   },
   {
-    "title": "Uncovering Human-to-Human Physical Interactions that Underlie Emotional and Affective Touch Communication",
-    "authors": "Steven C. Hauser, Sarah McIntyre, Ali Israr, Håkan Olausson, Gregory J. Gerling",
-    "journal": "World Haptics",
-    "year": 2019,
-    "url": "https://research.fb.com/wp-content/uploads/2019/06/Uncovering-Human-to-Human-Physical-Interactions-that-Underlie-Emotional-and-Affective-Touch-Communication-.pdf"
+    "title": "Mechanoreceptive Aβ Primary Afferents Discriminate Naturalistic Social Touch Inputs at a Functionally Relevant Time Scale",
+    "journal": "IEEE Transactions on Affective Computing",
+    "year": 2025,
+    "doi": "10.1109/TAFFC.2024.3435060",
+    "url": "https://doi.org/10.1109/TAFFC.2024.3435060"
+  },
+  {
+    "title": "Primary somatosensory cortical processing in tactile communication",
+    "journal": "",
+    "year": 2024,
+    "doi": "10.31234/osf.io/6cgwd",
+    "url": "https://doi.org/10.31234/osf.io/6cgwd"
+  },
+  {
+    "title": "Human Foot Outperforms the Hand in Mechanical Pain Discrimination",
+    "journal": "eneuro",
+    "year": 2024,
+    "doi": "10.1523/ENEURO.0412-23.2024",
+    "url": "https://doi.org/10.1523/ENEURO.0412-23.2024"
+  },
+  {
+    "title": "Human foot outperforms the hand in mechanical pain discrimination",
+    "journal": "",
+    "year": 2023,
+    "doi": "10.1101/2023.10.10.561422",
+    "url": "https://doi.org/10.1101/2023.10.10.561422"
+  },
+  {
+    "title": "Mechanoreceptive Aβ primary afferents discriminate naturalistic social touch inputs at a functionally relevant time scale",
+    "journal": "",
+    "year": 2023,
+    "doi": "10.1101/2023.07.22.549516",
+    "url": "https://doi.org/10.1101/2023.07.22.549516"
+  },
+  {
+    "title": "Body perception and social touch preferences during times of grief",
+    "journal": "",
+    "year": 2023,
+    "doi": "10.31234/osf.io/mdhbq",
+    "url": "https://doi.org/10.31234/osf.io/mdhbq"
+  },
+  {
+    "title": "The Language of Social Touch Is Intuitive and Quantifiable",
+    "journal": "Psychological Science",
+    "year": 2022,
+    "doi": "10.1177/09567976211059801",
+    "url": "https://doi.org/10.1177/09567976211059801"
+  },
+  {
+    "title": "Subtle Contact Nuances in the Delivery of Human-to-Human Touch Distinguish Emotional Sentiment",
+    "journal": "IEEE Transactions on Haptics",
+    "year": 2022,
+    "doi": "10.1109/TOH.2021.3137833",
+    "url": "https://doi.org/10.1109/TOH.2021.3137833"
+  },
+  {
+    "title": "The language of social touch is intuitive and quantifiable",
+    "journal": "",
+    "year": 2021,
+    "doi": "10.31234/osf.io/smktq",
+    "url": "https://doi.org/10.31234/osf.io/smktq"
+  },
+  {
+    "title": "Thin Films on the Skin, but not Frictional Agents, Attenuate the Percept of Pleasantness to Brushed Stimuli",
+    "journal": "2021 IEEE World Haptics Conference (WHC)",
+    "year": 2021,
+    "doi": "10.1109/whc49131.2021.9517259",
+    "url": "https://doi.org/10.1109/whc49131.2021.9517259"
+  },
+  {
+    "title": "The effects of ageing on tactile function in humans",
+    "journal": "",
+    "year": 2021,
+    "doi": "10.31234/osf.io/pg589",
+    "url": "https://doi.org/10.31234/osf.io/pg589"
+  },
+  {
+    "title": "Characteristics and outcomes of patients admitted to Swedish intensive care units for COVID-19 during the first 60 days of the 2020 pandemic: a registry-based, multicenter, observational study",
+    "journal": "",
+    "year": 2020,
+    "doi": "10.1101/2020.08.06.20169599",
+    "url": "https://doi.org/10.1101/2020.08.06.20169599"
+  },
+  {
+    "title": "Tactile direction discrimination in humans after stroke",
+    "journal": "Brain Communications",
+    "year": 2020,
+    "doi": "10.1093/braincomms/fcaa088",
+    "url": "https://doi.org/10.1093/braincomms/fcaa088"
+  },
+  {
+    "title": "Cognitive, Motor and Social Factors of Music Instrument Training Programs for Older Adults’ Improved Wellbeing",
+    "journal": "Frontiers in Psychology",
+    "year": 2020,
+    "doi": "10.3389/fpsyg.2019.02868",
+    "url": "https://doi.org/10.3389/fpsyg.2019.02868"
   },
   {
     "title": "Tactile sensory channels over-ruled by frequency decoding system that utilizes spike pattern regardless of receptor type",
-    "authors": "Ingvars Birznieks, Sarah McIntyre, Hanna Maria Nilsson, Saad S Nagi, Vaughan G Macefield, David A Mahns, Richard M Vickery",
-    "journal": "bioRxiv",
+    "journal": "",
     "year": 2019,
+    "doi": "10.1101/570929",
     "url": "https://doi.org/10.1101/570929"
   },
   {
-    "title": "Vibrotactile sensitivity of patients with HIV-related sensory neuropathy: An exploratory study",
-    "authors": "David Karpul, Sarah McIntyre, André van Schaik, Paul P. Breen, Jeannine M. Heckmann",
+    "title": "From Human-to-Human Touch to Peripheral Nerve Responses",
+    "journal": "2019 IEEE World Haptics Conference (WHC)",
+    "year": 2019,
+    "doi": "10.1109/whc.2019.8816113",
+    "url": "https://doi.org/10.1109/whc.2019.8816113"
+  },
+  {
+    "title": "Uncovering Human-to-Human Physical Interactions that Underlie Emotional and Affective Touch Communication",
+    "journal": "World Haptics",
+    "year": 2019,
+    "doi": "10.1109/WHC.2019.8816169",
+    "url": "https://doi.org/10.1109/WHC.2019.8816169"
+  },
+  {
+    "title": "Affective touch communication in close adult relationships",
+    "journal": "",
+    "year": 2019,
+    "doi": "10.1109/whc.2019.8816093",
+    "url": "https://doi.org/10.1109/whc.2019.8816093"
+  },
+  {
+    "title": "Vibrotactile sensitivity of patients with HIV‐related sensory neuropathy: An exploratory study",
     "journal": "Brain and Behavior",
-    "year": 2018,
-    "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/brb3.1184"
+    "year": 2019,
+    "doi": "10.1002/brb3.1184",
+    "url": "https://doi.org/10.1002/brb3.1184"
   },
   {
     "title": "Low-power transcutaneous current stimulator for wearable applications",
-    "authors": "David Karpul, Gregory K Cohen, Gaetano D Gargiulo, Andre van Schaik, Sarah McIntyre, Paul P Breen",
-    "journal": "BioMedical Engineering OnLine",
+    "journal": "",
     "year": 2017,
-    "url": "https://biomedical-engineering-online.biomedcentral.com/track/pdf/10.1186/s12938-017-0409-9"
+    "doi": "10.1186/s12938-017-0409-9",
+    "url": "https://doi.org/10.1186/s12938-017-0409-9"
+  },
+  {
+    "title": "Tactile Motion Adaptation Reduces Perceived Speed but Shows No Evidence of Direction Sensitivity",
+    "journal": "",
+    "year": 2017,
+    "doi": "10.31237/osf.io/5rxdf_v1",
+    "url": "https://doi.org/10.31237/osf.io/5rxdf_v1"
+  },
+  {
+    "title": "Tactile Motion Adaptation Reduces Perceived Speed but Shows No Evidence of Direction Sensitivity",
+    "journal": "",
+    "year": 2017,
+    "doi": "10.31237/osf.io/5rxdf",
+    "url": "https://doi.org/10.31237/osf.io/5rxdf"
   },
   {
     "title": "Measurement of perception thresholds for electrical noise stimuli",
-    "authors": "David Karpul, Sarah McIntyre, Andre van Schaik, Paul P Breen",
-    "journal": "IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "journal": "",
     "year": 2017,
-    "url": "https://www.researchgate.net/profile/Sarah_Mcintyre6/publication/320117339_Measurement_of_perception_thresholds_for_electrical_noise_stimuli/links/59d23fe2aca2721f4369a236/Measurement-of-perception-thresholds-for-electrical-noise-stimuli.pdf"
+    "doi": "10.1109/embc.2017.8037284",
+    "url": "https://doi.org/10.1109/embc.2017.8037284"
   },
   {
     "title": "The tactile motion aftereffect suggests an intensive code for speed in neurons sensitive to both speed and direction of motion",
-    "authors": "Sarah McIntyre, Ingvars Birznieks, Richard M Vickery, Alex O Holcombe, Tatjana Seizova-Cajic",
     "journal": "Journal of Neurophysiology",
     "year": 2016,
-    "url": "https://www.physiology.org/doi/pdf/10.1152/jn.00460.2015"
+    "doi": "10.1152/jn.00460.2015",
+    "url": "https://doi.org/10.1152/jn.00460.2015"
   },
   {
-    "title": "Temporal Integration of Tactile Inputs from Multiple Sites",
-    "authors": "Sarah McIntyre, Ingvars Birznieks, Robin Andersson, Gabriel Dicander, Paul P Breen, Richard M Vickery",
-    "journal": "EuroHaptics",
-    "year": 2016,
-    "url": "https://www.researchgate.net/profile/Ingvars_Birznieks/publication/304704038_Temporal_Integration_of_Tactile_Inputs_from_Multiple_Sites/links/5874370908ae8fce4924fdb6.pdf"
-  },
-  {
-    "title": "The tactile speed aftereffect depends on the speed of adapting motion across the skin, rather than other spatio-temporal features",
-    "authors": "Sarah McIntyre, Tatjana Seizova-Cajic, Alex O Holcombe",
+    "title": "The tactile speed aftereffect depends on the speed of adapting motion across the skin rather than other spatiotemporal features",
     "journal": "Journal of Neurophysiology",
-    "year": 2015,
-    "url": "https://www.physiology.org/doi/pdf/10.1152/jn.00821.2014"
+    "year": 2016,
+    "doi": "10.1152/jn.00821.2014",
+    "url": "https://doi.org/10.1152/jn.00821.2014"
   },
   {
-    "title": "Adaptation to motion presented with a tactile array",
-    "authors": "Sarah McIntyre, Tatjana Seizova-Cajic, Ingvars Birznieks, Alex O Holcombe, Richard M Vickery",
-    "journal": "EuroHaptics",
+    "title": "Adaptation to Motion Presented with a Tactile Array",
+    "journal": "Haptics: Neuroscience, Devices, Modeling, and Applications",
     "year": 2014,
-    "url": "https://www.researchgate.net/profile/Tatjana_Seizova-Cajic/publication/264121324_Adaptation_to_Motion_Presented_with_a_Tactile_Array/links/53cee6080cf2fd75bc59abe4.pdf"
+    "doi": "10.1007/978-3-662-44193-0_44",
+    "url": "https://doi.org/10.1007/978-3-662-44193-0_44"
+  },
+  {
+    "title": "Lateral Skin Stretch Influences Direction Judgments of Motion Across the Skin",
+    "journal": "Haptics: Neuroscience, Devices, Modeling, and Applications",
+    "year": 2014,
+    "url": "https://orcid.org/0000-0002-0544-6533/0000-0002-0544-6533/work/21988422"
   },
   {
     "title": "Adaptation to moving tactile stimuli and its effects on perceived speed and direction",
-    "authors": "Sarah DA McIntyre",
-    "journal": "PhD Thesis, University of Sydney",
-    "year": 2014,
-    "url": "https://ses.library.usyd.edu.au/bitstream/2123/10436/1/mcintyre_sda_thesis.pdf"
-  },
-  {
-    "title": "Lateral skin stretch influences direction judgments of motion across the skin",
-    "authors": "Tatjana Seizova-Cajic, Kornelia Karlsson, Sara Bergstrom, Sarah McIntyre, Ingvars Birznieks",
-    "journal": "EuroHaptics",
-    "year": 2014,
-    "url": "https://www.researchgate.net/profile/Tatjana_Seizova-Cajic/publication/264121418_Lateral_Skin_Stretch_Influences_Direction_Judgments_of_Motion_Across_the_Skin/links/53cee7600cf2fd75bc59abf7/Lateral-Skin-Stretch-Influences-Direction-Judgments-of-Motion-Across-the-Skin.pdf"
-  },
-  {
-    "title": "Tactile motion adaptation reduces perceived speed but shows no evidence of direction sensitivity",
-    "authors": "Sarah McIntyre, Alex O Holcombe, Ingvars Birznieks, Tatjana Seizova-Cajic",
-    "journal": "PLOS ONE",
-    "year": 2012,
-    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0045438&type=printable"
+    "journal": "",
+    "year": 2013,
+    "url": "http://hdl.handle.net/2123/10436"
   },
   {
     "title": "Can a witness report hearsay evidence unintentionally? The effects of discussion on eyewitness memory",
-    "authors": "Helen M Paterson, Richard Kemp, Sarah McIntyre",
-    "journal": "Psychology, Crime & Law",
+    "journal": "",
     "year": 2012,
-    "url": "https://ses.library.usyd.edu.au/bitstream/2123/8955/2/co-witness_final_preprint.pdf"
+    "doi": "10.1080/1068316X.2010.510117",
+    "url": "https://doi.org/10.1080/1068316X.2010.510117"
+  },
+  {
+    "title": "Tactile Motion Adaptation Reduces Perceived Speed but Shows No Evidence of Direction Sensitivity",
+    "journal": "",
+    "year": 2012,
+    "doi": "10.1371/journal.pone.0045438",
+    "url": "https://doi.org/10.1371/journal.pone.0045438"
   },
   {
     "title": "Neck muscle vibration in full cues affects pointing",
-    "authors": "Sarah McIntyre, Tatjana Seizova-Cajic",
-    "journal": "Journal of Vision",
+    "journal": "",
     "year": 2007,
-    "url": "https://jov.arvojournals.org/pdfaccess.ashx?url=/data/journals/jov/933522/jov-7-5-9.pdf"
+    "doi": "10.1167/7.5.9",
+    "url": "https://doi.org/10.1167/7.5.9"
+  },
+  {
+    "title": "Perceived speed of moving surfaces following adaptation to motion, with variations in speed and texture",
+    "journal": "",
+    "year": null,
+    "doi": "10.4225/35/569d7ba817db2",
+    "url": "https://doi.org/10.4225/35/569d7ba817db2"
   }
 ]
