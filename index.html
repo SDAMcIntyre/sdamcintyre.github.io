@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="auto">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sarah McIntyre</title>
+  <meta name="description" content="Associate Professor at Linköping University researching sensory neuroscience, touch psychophysics, and affective touch.">
+  <link rel="stylesheet" href="style.css">
+  <!-- Apply saved theme before first paint to prevent flash -->
+  <script>
+    (function(){
+      try {
+        var t = localStorage.getItem("theme") || "auto";
+        document.documentElement.setAttribute("data-theme", t);
+      } catch(_) {}
+    })();
+  </script>
+</head>
+<body>
+
+<!--
+  ===== TO UPDATE =====
+  1. Lines ~57-60: Replace the bio placeholder paragraph with your current bio (2-4 sentences).
+  2. Lines ~63-67: Review research interest tags — add or remove as needed.
+  =====================
+-->
+
+<!-- ── Navigation ─────────────────────────────────────────── -->
+<header>
+  <nav id="main-nav">
+    <a href="#" class="nav-name">Sarah McIntyre</a>
+    <div class="nav-links">
+      <a href="https://scholar.google.com/citations?user=Hnw8AAcAAAAJ&hl=en"
+         target="_blank" rel="noopener">Scholar</a>
+      <a href="https://orcid.org/0000-0002-0544-6533"
+         target="_blank" rel="noopener">ORCID</a>
+      <a href="https://github.com/SDAMcIntyre"
+         target="_blank" rel="noopener">GitHub</a>
+      <a href="https://github.com/LHTMR"
+         target="_blank" rel="noopener">Lab</a>
+      <a href="https://www.linkedin.com/in/sarah-mcintyre-808121249"
+         target="_blank" rel="noopener">LinkedIn</a>
+      <button id="theme-toggle" aria-label="Switch to dark mode">
+        <span class="icon-moon" aria-hidden="true">☽</span>
+        <span class="icon-sun"  aria-hidden="true">☀</span>
+      </button>
+    </div>
+  </nav>
+</header>
+
+<!-- ── Main ───────────────────────────────────────────────── -->
+<main>
+
+  <!-- About -->
+  <section id="about">
+    <div class="about-header">
+      <h1>Sarah McIntyre</h1>
+      <p class="about-title">Associate Professor</p>
+      <p class="about-institution">
+        <a href="https://liu.se/en/research/csan/labs/mcintyre-lab"
+           target="_blank" rel="noopener">Linköping University</a>
+      </p>
+    </div>
+
+    <div class="about-bio">
+      <!-- PLACEHOLDER: Replace this paragraph with your current bio (2-4 sentences). -->
+      <p>[BIO PLACEHOLDER — describe your research focus, current position, and background here.]</p>
+    </div>
+
+    <div class="research-tags">
+      <!-- Review and update these tags to match your current research interests -->
+      <span class="tag">Sensory neuroscience</span>
+      <span class="tag">Touch psychophysics</span>
+      <span class="tag">Affective touch</span>
+    </div>
+
+    <div class="contact-links">
+      <a href="mailto:sarah.mcintyre@liu.se">sarah.mcintyre@liu.se</a>
+      <span class="contact-sep" aria-hidden="true">·</span>
+      <a href="https://liu.se/en/research/csan/labs/mcintyre-lab"
+         target="_blank" rel="noopener">Lab website</a>
+      <span class="contact-sep" aria-hidden="true">·</span>
+      <a href="https://github.com/LHTMR"
+         target="_blank" rel="noopener">Lab GitHub</a>
+    </div>
+  </section>
+
+  <!-- Publications -->
+  <section id="publications">
+    <h2>Publications</h2>
+    <div id="publications-list">
+      <p class="pub-loading">Loading publications&hellip;</p>
+    </div>
+  </section>
+
+</main>
+
+<!-- ── Footer ─────────────────────────────────────────────── -->
+<footer>
+  <p>&copy; <span id="current-year"></span> Sarah McIntyre</p>
+  <p>Publication list updated automatically via <a href="https://orcid.org/0000-0002-0544-6533" target="_blank" rel="noopener">ORCID</a></p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

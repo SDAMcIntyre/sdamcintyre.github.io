@@ -1,0 +1,34 @@
+name: Fetch ORCID Publications
+
+on:
+  schedule:
+    - cron: '0 6 1 * *'   # First of every month at 06:00 UTC
+  workflow_dispatch:        # Manual trigger from the Actions UI
+
+permissions:
+  contents: write           # Needed to commit the updated JSON back to the repo
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch and process ORCID data
+        run: python .github/scripts/process_orcid.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add publications.json
+          git diff --cached --quiet || \
+            git commit -m "chore: update publications.json from ORCID [skip ci]"
+          git push
